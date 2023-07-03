@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tonestro.Maui.FacebookSlim.Android", "Tonestro.Maui.FacebookSlim.Android\Tonestro.Maui.FacebookSlim.Android.csproj", "{2D99C5DF-B6A9-41F9-98ED-DDBF324EF80A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tonestro.Maui.FacebookSlim.Android.UsageChecker", "Tonestro.Maui.FacebookSlim.Android.UsageChecker\Tonestro.Maui.FacebookSlim.Android.UsageChecker.csproj", "{2A0AECEA-4B5B-4222-B034-83A0EAE34E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D99C5DF-B6A9-41F9-98ED-DDBF324EF80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D99C5DF-B6A9-41F9-98ED-DDBF324EF80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D99C5DF-B6A9-41F9-98ED-DDBF324EF80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D99C5DF-B6A9-41F9-98ED-DDBF324EF80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0AECEA-4B5B-4222-B034-83A0EAE34E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0AECEA-4B5B-4222-B034-83A0EAE34E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0AECEA-4B5B-4222-B034-83A0EAE34E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0AECEA-4B5B-4222-B034-83A0EAE34E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
